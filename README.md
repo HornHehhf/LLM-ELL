@@ -1,6 +1,17 @@
 # Equi-Learning Law
-This is the code repository for the arXiv paper "A Law of Next-Token Prediction in Large Language Models".
-
+This is the code repository for the arXiv paper [A Law of Next-Token Prediction in Large Language Models](https://arxiv.org/pdf/2408.13442).
+If you use this code for your work, please cite
+```
+@misc{he2024lawnexttokenpredictionlarge,
+      title={A Law of Next-Token Prediction in Large Language Models}, 
+      author={Hangfeng He and Weijie J. Su},
+      year={2024},
+      eprint={2408.13442},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2408.13442}, 
+}
+```
 ## Installing Dependencies
 Use virtual environment tools (e.g. miniconda) to install packages and run experiments:\
 conda create -n myenv python=3.10\
