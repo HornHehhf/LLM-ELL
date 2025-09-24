@@ -1,15 +1,20 @@
 # Equi-Learning Law
-This is the code repository for the arXiv paper [A Law of Next-Token Prediction in Large Language Models](https://arxiv.org/pdf/2408.13442).
+This is the code repository for the PRE paper [A Law of Next-Token Prediction in Large Language Models](https://journals.aps.org/pre/abstract/10.1103/5rn3-49lc).
 If you use this code for your work, please cite
 ```
-@misc{he2024lawnexttokenpredictionlarge,
-      title={A Law of Next-Token Prediction in Large Language Models}, 
-      author={Hangfeng He and Weijie J. Su},
-      year={2024},
-      eprint={2408.13442},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2408.13442}, 
+@article{5rn3-49lc,
+  title = {A law of next-token prediction in large language models},
+  author = {He, Hangfeng and Su, Weijie J.},
+  journal = {Phys. Rev. E},
+  volume = {112},
+  issue = {3},
+  pages = {035317},
+  numpages = {17},
+  year = {2025},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/5rn3-49lc},
+  url = {https://link.aps.org/doi/10.1103/5rn3-49lc}
 }
 ```
 ## Installing Dependencies
